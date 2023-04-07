@@ -10,14 +10,8 @@
 
 
 
-
-
-
-
-
-
 ## 计算机保研面试视频
-**哔哩哔哩账号主页:** &nbsp; [CS保研联盟]([CS保研联盟的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/496909835)) 
+**哔哩哔哩账号主页:** &nbsp; [CS保研联盟](https://space.bilibili.com/496909835) 
 ![bilibili主页](images/B站宣传.png)
 
 
