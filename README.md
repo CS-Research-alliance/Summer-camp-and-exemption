@@ -36,7 +36,7 @@
 
 ![计算机保研经验帖](images/%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C.png)
 
-##### CS保研联盟交流群：1080150860
+##### CS保研联盟交流群：758336522
 <img src="images/QQ群.png" width="30%">
 
 
